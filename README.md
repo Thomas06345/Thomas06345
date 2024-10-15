@@ -17,9 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joegeorge022&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!---
 Thomas06345/Thomas06345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
