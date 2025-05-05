@@ -6,7 +6,7 @@
 ## ⚔️ About Me
 
 A college code-warrior walking the tightrope between madness and genius.  
-I don’t just fix bugs—I slay them with style.  
+
 Trained under a sarcastic anime mentor who drinks logic like espresso.
 
 Currently exploring:
