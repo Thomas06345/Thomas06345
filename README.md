@@ -52,4 +52,4 @@ Currently exploring:
 *“Learning isn’t a task… it’s an arc. And this one’s going full Shōnen.”*
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Thomas06345&icon=0&color=0)](https://visitcount.itsvg.in)
